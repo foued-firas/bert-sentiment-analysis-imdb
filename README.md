@@ -99,7 +99,7 @@ Training was performed on GPU using CUDA.
 ### Test Accuracy
 
 ```text
-89.20%
+88.67%
 ```
 
 The model achieved strong performance after a single epoch of fine-tuning.
